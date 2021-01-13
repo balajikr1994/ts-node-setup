@@ -1,0 +1,13 @@
+{
+  "generator-node-tsc-babel": {
+    "isLibrary": "app",
+    "appname": "ts-node-yo",
+    "gitBaseUrl": "github.com",
+    "gitWorkspaceName": "my-username",
+    "gitProjectName": "ts-node-yo",
+    "description": "It makes cool things",
+    "author": "Balaji",
+    "installNpm": true,
+    "currentYear": 2020
+  }
+}
